@@ -1,5 +1,6 @@
 ### Toluwani | Light Dexter
-AI & Product Engineering · Auditing how we learn · Chemistry '28
+AI & Product Engineering
+Auditing how I learn · Chemistry '28
 
 **Currently Engineering:**
 - Automated Python data pipelines & ML classification workflows
